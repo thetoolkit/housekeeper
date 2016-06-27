@@ -10,10 +10,5 @@
   ],
   "require": {
     "php": ">=5.6"
-  },
-  "autoload": {
-    "psr-0": {
-      "OAuth2": "src/"
-    }
   }
 }

@@ -1,5 +1,5 @@
-Oauth2-server
--------------
+OAuth2 server for PHP
+---------------------
 
 Installation
 ------------
